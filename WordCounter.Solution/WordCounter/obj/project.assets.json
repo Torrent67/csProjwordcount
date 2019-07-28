@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Action\\desktop\\wordcounter\\WordCounter.Solution\\WordCounter\\Porgram.csproj",
-      "projectName": "Porgram",
-      "projectPath": "C:\\Users\\Action\\desktop\\wordcounter\\WordCounter.Solution\\WordCounter\\Porgram.csproj",
+      "projectUniqueName": "C:\\Users\\Action\\desktop\\wordcounter\\WordCounter.Solution\\WordCounter\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "C:\\Users\\Action\\desktop\\wordcounter\\WordCounter.Solution\\WordCounter\\Program.csproj",
       "packagesPath": "C:\\Users\\Action\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Action\\desktop\\wordcounter\\WordCounter.Solution\\WordCounter\\obj\\",
       "projectStyle": "PackageReference",

@@ -2,3 +2,16 @@ C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\D
 C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\Debug\netcoreapp2.2\CounterTests.csproj.CoreCompileInputs.cache
 C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\Debug\netcoreapp2.2\CounterTests.AssemblyInfoInputs.cache
 C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\Debug\netcoreapp2.2\CounterTests.AssemblyInfo.cs
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\CounterTests.deps.json
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\CounterTests.runtimeconfig.json
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\CounterTests.runtimeconfig.dev.json
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\CounterTests.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\CounterTests.pdb
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\Program.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\bin\Debug\netcoreapp2.2\Program.pdb
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\Debug\netcoreapp2.2\CounterTests.csproj.CopyComplete
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\Debug\netcoreapp2.2\CounterTests.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter.Tests\obj\Debug\netcoreapp2.2\CounterTests.pdb
