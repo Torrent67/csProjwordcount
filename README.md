@@ -14,8 +14,10 @@ This terminal app will take a word and sentence from a user and returns how many
   Output, "sentence = I want some coffee, word = coffee".
 
 * Checks how many times a word appears in a sentence:
-  "Please put more coffee in my coffee mug" int = 2
-    
+  Input:"Please put more coffee in my coffee mug" Output "coffee" = int 2
+
+* Will not count if selected word is in another word
+  Input: "she sells sea shells by the seashore" Output "sea"= int1
 
 
 

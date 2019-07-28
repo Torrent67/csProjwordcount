@@ -5,7 +5,7 @@ namespace WordCount
     {
       public int wordCount (string setence, string word)
       {
-        int wordnum = 0;
+        int wordNum = 0;
         string userSetence = setence.ToLower();
         string userWord = word.ToLower();  
         string[] setenceArr = setence.Split(" ");
@@ -13,10 +13,10 @@ namespace WordCount
         {
           if (setenceArr[i] == word)
           {
-            wordnum += 1;
+            wordNum += 1;
           }
         }
-        return wordnum;
+        return wordNum;
       }
     }
 }

@@ -7,24 +7,44 @@ namespace WordCount.Tests
     public class CounterTest
     {
         [TestMethod]
-        public void wordCount_CatchOneWord_1()
+        public void wordCount_OneWord_1()
         {
             Counter userInput = new Counter();
-            Assert.AreEqual(1, userInput.wordCount("coffee", "coffee"));
+            Assert.AreEqual(1, userInput.wordCount("cat cathedral", "cathedral"));
         }
         [TestMethod]
-        public void wordCount_CatchOneInString_1()
+        public void wordCount_OneWordInString_1()
         {
             Counter userInput = new Counter();
             Assert.AreEqual(1, userInput.wordCount("gib coffee pls", "coffee"));
         }
         [TestMethod]
-        public void wordCount_CatchTwoInString_2()
+        public void wordCount_TwoWordsInString2()
         {
             Counter userInput = new Counter();
-            Assert.AreEqual(2, userInput.wordCount("what would you like in your coffee I like black coffee", "coffee"));
+            Assert.AreEqual(2, userInput.wordCount("Please put more coffee in my coffee mug", "coffee"));
+        }
+        [TestMethod]
+        public void wordCount_WordsInString3()
+        {
+            Counter userInput = new Counter();
+            Assert.AreEqual(1, userInput.wordCount("she sells sea shells by the seashore", "sea"));
+        }
+         [TestMethod]
+        public void wordCount_TwoWordsInString4()
+        {
+            Counter userInput = new Counter();
+            Assert.AreEqual(2, userInput.wordCount("she sells sea shells by the seashore she sells sea shells so well", "sells"));
+        }
+        [TestMethod]
+        public void wordCount_FourWordsInString5()
+        {
+            Counter userInput = new Counter();
+            Assert.AreEqual(4, userInput.wordCount("that movie was better than the other movie but I like this movie more than that movie", "movie"));
         }
       
+       
+       
        
     }
 }
