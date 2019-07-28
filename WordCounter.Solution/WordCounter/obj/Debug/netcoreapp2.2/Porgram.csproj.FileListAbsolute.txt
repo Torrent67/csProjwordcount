@@ -1,0 +1,11 @@
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp2.2\Porgram.csprojAssemblyReference.cache
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp2.2\Porgram.csproj.CoreCompileInputs.cache
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp2.2\Porgram.AssemblyInfoInputs.cache
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp2.2\Porgram.AssemblyInfo.cs
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp2.2\Porgram.deps.json
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp2.2\Porgram.runtimeconfig.json
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp2.2\Porgram.runtimeconfig.dev.json
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp2.2\Porgram.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\bin\Debug\netcoreapp2.2\Porgram.pdb
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp2.2\Porgram.dll
+C:\Users\Action\desktop\wordcounter\WordCounter.Solution\WordCounter\obj\Debug\netcoreapp2.2\Porgram.pdb
